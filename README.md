@@ -1,0 +1,5 @@
+"# Guessing Game" 
+"" 
+"Date and time: $(date)" 
+"" 
+"Number of lines in guessinggame.sh: $(wc -l < guessinggame.sh)" 
